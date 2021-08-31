@@ -1,6 +1,6 @@
 {
-  "homepage": "http://vaskania.github.io/react-food-test",
-  "name": "react-complete-guide",
+  "homepage": "http://vaskania.github.io/react-food",
+  "name": "react-deploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
